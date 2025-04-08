@@ -1,4 +1,4 @@
-## Python Program to Implement Tower of Hanoi Using Recursion
+##  Implement Tower of Hanoi Using Recursion
 
 ## Aim:
 To write a Python program that solves the Tower of Hanoi problem recursively and displays all the moves made to shift disks from source peg to destination peg.
